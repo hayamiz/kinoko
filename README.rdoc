@@ -1,6 +1,6 @@
 = kinoko
 
-Description goes here.
+kinoko is an experiment management system.
 
 == Contributing to kinoko
  
